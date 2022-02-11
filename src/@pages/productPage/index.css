@@ -1,0 +1,12 @@
+@media screen and (max-width: 450px) {
+    .responsive-content-heading {
+        font-size: 6vw;
+        font-weight: bolder;
+    }
+  }
+
+@media screen and (max-width: 300px) {
+    .responsive-content-item {
+        font-size: 14px;
+    }
+}

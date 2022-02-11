@@ -1,0 +1,22 @@
+@media screen and (max-width: 865px) {
+    .nav {
+        font-size: 14px;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .nav-display-on-large-screens {
+        display : none
+    }
+  }
+
+  @media screen and (min-width: 801px) {
+    .nav-display-on-small-screens
+    {
+        display: none;
+    }
+  }
+
+  .offcanvas {
+    max-width : 80%
+  }
